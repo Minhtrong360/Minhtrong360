@@ -2,6 +2,8 @@
 
 I am Trong, used to be an international student in Russia majoring in Nuclear Engineering and am moving to the IT field. I am skilled in HTML5, CSS, Javascript, React, MongoDB, NodeJS.
 
+I love Web development because Web development is a creative process that allows you to create unique and beautiful websites and applications. Solving programming challenges is also exciting for many programmers.
+
 I am trying to be a professional full-stack web developer.
 
 <br>
